@@ -1,6 +1,5 @@
-<h1>Arturo Picazo Soriano</h1>
-<h4>IT Student</h4>
-<br>
+<h1>Arturo Picazo Soriano 
+<h4>IT Student on IES ABASTOS </h4></h1>
 
 <h2>👨‍💻Projects:</h2>
 
