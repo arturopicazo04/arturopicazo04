@@ -20,8 +20,8 @@
   -->
 
 <h2>Social Networks</h2>
-<img align="left" alt="Arturo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" Linkedin/>
-<img align="left" alt="Arturo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" Instagram/>
+<img align="left" alt="Arturo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">Linkedin />
+<img align="left" alt="Arturo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">Instagram />
 
 
 [instagram]: https://www.instagram.com/_arturopicazo_/
