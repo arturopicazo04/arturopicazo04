@@ -1,5 +1,6 @@
-<h1>Arturo Picazo Soriano <br/> 
+<h1>Arturo Picazo Soriano
 <h4>IT Student</h4>
+  <br/> 
 
 <h2>👨‍💻Projects:</h2>
 
