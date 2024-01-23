@@ -1,4 +1,4 @@
-<h1>Arturo Picazo Soriano
+<h1>Arturo Picazo Soriano</h1>
 <h4>IT Student</h4>
   <br/> 
 
