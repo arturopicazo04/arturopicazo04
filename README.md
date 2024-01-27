@@ -6,5 +6,6 @@
  <li> <a href="https://github.com/arturopicazo04/python">Python Proyects</a> </li>
 </ul>
 <h2>Social Networks</h2>
-<a href="https://www.linkedin.com/in/arturo-picazo-soriano-326775267/"><img align="left" alt="Arturo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a href="https://www.instagram.com/_arturopicazo_/"><img align="left" alt="Arturo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a href="https://www.linkedin.com/in/arturo-picazo-soriano-326775267/"><img align="left" alt="Arturo | LinkedIn" width="22px" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png"></a>
+
+<a href="https://www.instagram.com/_arturopicazo_/"><img align="left" alt="Arturo | Instagram" width="22px" src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Image.png"></a>
