@@ -1,5 +1,5 @@
 <h1>Arturo Picazo Soriano 
-<h4>IT Student on IES ABASTOS </h4></h1>
+<h4>CyberSecurity Student on UNIR </h4></h1>
 
 <h2>👨‍💻Projects:</h2>
 <ul>
